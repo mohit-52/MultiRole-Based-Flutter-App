@@ -1,0 +1,1 @@
+const String splashImage = 'https://images.pexels.com/photos/17609/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1';
