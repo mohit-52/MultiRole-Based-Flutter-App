@@ -1,16 +1,8 @@
-# multi_role_based_app
+This is a multirole based app built using Flutter for educational organisation which consists of the roles such as Student, Teacher and Admin
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project deals with :
+Splash Screen
+Init Function
+Basic architecture of Functions in Dart
+Future Functions and async And wait
+Shared Preferences
